@@ -1,0 +1,14 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Just Java</string>
+    <string name="Quantity">Quantity</string>
+    <string name="Quantity_Value">0</string>
+    <string name="Order_Button">Order</string>
+    <string name="Price_Value">Order Summary</string>
+
+    <!-- Thank you message from Java MainActivity-->
+    <string name="Thank_You">Thank You!</string>
+
+    <!-- userName -->
+    <string name="name_field__view">userName: <xliff:g id="Name" example="Amy">%s</xliff:g></string>
+
+</resources>
